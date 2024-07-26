@@ -1,0 +1,28 @@
+body {  font-family: Arial, sans-serif;
+  background-color: #aae0a4;}
+
+header {
+	background-color: #0fff17;
+	
+}
+h2 {
+  text-align: center;  color: #1a1a1a;
+  background-color: #aae0a4;}
+Tipe{ text-align: center;
+ font-size: 35px;color: #1a1a1a; }
+button {  background-color: #f2fcf2;
+  padding: 20px 55px;   text-align: center; 
+   text-decoration: none;    display: inline-block; 
+   font-size: 16px;    margin: 4px 2px; 
+   border-radius: 8px;   border: none;
+  cursor: pointer;}
+vkus {  color: #007504;
+  background-color: #007504;}
+h1 {  font-size: 3em;
+  color: #007504;  text-align: center;
+}
+h3 {  font-size: 3em;
+  color: #1a1a1a;  text-align: center;
+  font-size: 80px;
+  
+}

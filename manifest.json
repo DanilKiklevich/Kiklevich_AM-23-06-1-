@@ -1,0 +1,24 @@
+{
+  "name": "BestRecipes",
+  "short_name": "Библиотека",
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#ffbf80",
+  "theme_color": "#ff8c19",
+  "description": "Лучше рецептов не найдете.",
+  "icons": [
+    {
+      "src": "Лого128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "Лого512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "ru",
+  "orientation": "portrait-primary",
+  "scope": "/"
+}
